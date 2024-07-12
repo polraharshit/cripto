@@ -1,0 +1,9 @@
+@media screen and (max-width:768px) {
+    .main_menu{
+        display: none !important;
+    }
+    .mobail_menu{
+        display: block !important;
+    }
+}
+   
